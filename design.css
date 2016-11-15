@@ -127,8 +127,8 @@ h3.email {
 }
 
 img.myPic {
-	text-align: center;
-	margin-top: 50px;
+	float: middle;
+	margin-top: 25px;
 }
 
 #hr {
