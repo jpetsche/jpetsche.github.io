@@ -110,6 +110,18 @@ h4.actscore {
 	text-align: center;
 }
 
+h2.sites {
+	text-align: center;
+}
+
+h3.linkedIn {
+	text-align: center;
+}
+
+h3.GitHub {
+	text-align: center;
+}
+
 #hr {
 	width: 70%;
 	height: 1px;
