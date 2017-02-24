@@ -13,6 +13,14 @@ h3.pagesubtitle {
 	color: white;
 }
 
+h2.curJob {
+	text-align: center;
+}
+
+h4.job {
+	text-align: center;
+}
+
 h2.selfsum {
 	text-align: center;
 }
